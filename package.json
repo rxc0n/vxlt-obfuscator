@@ -1,0 +1,20 @@
+{
+  "name": "vxlt_obfuscator",
+  "version": "1.0.0",
+  "description": "A Obfuscator Bot | Made by @vxlt_obfuscator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
